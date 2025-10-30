@@ -382,7 +382,7 @@ hola.java
 script.sh
 texto.txt
 ```
-# 7 Tags y gestion de versiones (git tag y git checkout)
+# 7. Tags y gestion de versiones (git tag y git checkout)
 
 ## Ejecutaremos un git log para obtener el identificador
 
